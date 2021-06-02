@@ -24,7 +24,7 @@ Project Layout:
     03-Paper          : Overleaf document/ latex document for paper stuff. -can be subdivided into 01-Figures, 02-Tables etc
 
 
-### Note: I don't keep a Git repository for active projects- because more often than not they fail...sigh..and I don't want to clean up my Git often)It is a personal preference and if you want to back up your project you should definitely have one and also...you know....for version control. I usually add a time stamp to my script so i can delete the previous runs and they don't overwrite. Again not the ideal way to do this but it works for me.If you are working in a big lab where multiple people are working on the same project, I would highly recommend Git repository for every project. None of my advisors used git and everyone in lab works on separate projects.
+###### Note: I don't keep a Git repository for active projects- because more often than not they fail...sigh..and I don't want to clean up my Git often)It is a personal preference and if you want to back up your project you should definitely have one and also...you know....for version control. I usually add a time stamp to my script so i can delete the previous runs and they don't overwrite. Again not the ideal way to do this but it works for me.If you are working in a big lab where multiple people are working on the same project, I would highly recommend Git repository for every project. None of my advisors used git and everyone in lab works on separate projects.
 
 
 
